@@ -1,6 +1,6 @@
 [07:46] MARIO DA SILVA JESUS
     
-### OLÁ, EU SOU O RHUAN 
+### OLÁ, EU SOU O Mário 
 
 
 - 🔭 Sou um estudante de Desenvolvimento de sistemas
